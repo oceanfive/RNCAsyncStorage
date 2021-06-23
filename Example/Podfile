@@ -1,6 +1,0 @@
-use_frameworks!
-target 'RNCAsyncStorage_Tests' do
-  pod 'RNCAsyncStorage', :path => '../'
-  
-  
-end
